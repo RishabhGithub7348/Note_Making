@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Note_Making/static/css/main.8e2310bf.css",
+    "main.js": "/Note_Making/static/js/main.f86c02ea.js",
+    "static/media/logo.png": "/Note_Making/static/media/logo.b2ff4fe82c6cd262fa03.png",
+    "index.html": "/Note_Making/index.html",
+    "main.8e2310bf.css.map": "/Note_Making/static/css/main.8e2310bf.css.map",
+    "main.f86c02ea.js.map": "/Note_Making/static/js/main.f86c02ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e2310bf.css",
+    "static/js/main.f86c02ea.js"
+  ]
+}
